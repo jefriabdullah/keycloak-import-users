@@ -1,4 +1,4 @@
-# Keycloak Utils
+# Keycloak Import Users
 
 ## [import-users.sh](./import-users.sh) - Administer Keycloak accounts from the command-line
 See [users.csv](./users.csv) for example format.
