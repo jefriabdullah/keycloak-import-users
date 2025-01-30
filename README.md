@@ -4,17 +4,17 @@
 See [users.csv](./users.csv) for example format.
 ### Prerequisites in the Keycloak realm:
 1. Create client (eg. kc_user_import_script) for this script.
-1. Enable "Client authetication", "Direct access grants", "Service accounts role"
-1. Under Client's "Service account roles", add 
-  - query-clients
-  - query-groups
-  - view-users
-  - view-clients
-  - query-users
-  - query-realms
-  - manage-users
-  - manage-account
-1. In realm, enable Direct Grant API at Settings > Login
+2. Enable "Client authetication", "Direct access grants", "Service accounts role"
+3. Under Client's "Service account roles", add 
+    - query-clients
+    - query-groups
+    - view-users
+    - view-clients
+    - query-users
+    - query-realms
+    - manage-users
+    - manage-account
+4. In realm, enable Direct Grant API at Settings > Login
 
 ### Env File
 Example of .env_prod. You should find the correct .env_prod on the documentation handed to you.
