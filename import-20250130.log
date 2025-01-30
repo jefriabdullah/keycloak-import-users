@@ -1,0 +1,8 @@
+[HTTP 409] john.doe: insert (ba150103-0862-40e1-acad-01359d84d30b) failed  "errorMessage":"User exists with same email"
+[HTTP 409] jefri.abdullah: insert (70787cd9-3967-4d51-afc9-e916487c54a3) failed  "errorMessage":"User exists with same email"
+[HTTP 201] john.doe: insert (96ff2858-cae9-4782-8085-6a42dc4f0b84) successful
+[HTTP 409] jefri.abdullah: insert (70787cd9-3967-4d51-afc9-e916487c54a3) failed  "errorMessage":"User exists with same email"
+[HTTP 409] john.doe: insert (96ff2858-cae9-4782-8085-6a42dc4f0b84) failed  "errorMessage":"User exists with same email"
+[HTTP 409] jefri.abdullah: insert (70787cd9-3967-4d51-afc9-e916487c54a3) failed  "errorMessage":"User exists with same email"
+[HTTP 201] john.doe@example.com: insert (6249c394-ab46-4c58-b9a7-35ba8f9cc3d3) successful
+[HTTP 201] jefri.abdullah@timwetech.com: insert (4c318286-225e-43e3-acab-c575fe39d9cb) successful
